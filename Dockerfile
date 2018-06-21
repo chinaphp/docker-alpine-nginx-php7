@@ -23,6 +23,8 @@ RUN apk update && \
     php7-intl \
     php7-memcached \
     #php7-mysql \
+    php7-mysqli \
+    php7-iconv \
     php7-redis \
     php7-curl \
     php7-json \
